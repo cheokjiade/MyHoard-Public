@@ -75,4 +75,4 @@ We may update this policy from time to time. Changes will be posted on this page
 
 ## Contact
 
-Questions about this policy? Email [myhoard@jiade.dev](mailto:myhoard@jiade.dev).
+Questions about this policy? [Open an issue on GitHub](https://github.com/cheokjiade/MyHoard-Public/issues).
